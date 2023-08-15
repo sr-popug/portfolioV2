@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.cd204d82.css",
-    "main.js": "/Portfolio/static/js/main.b1208f3f.js",
-    "static/media/GOSURF.png": "/Portfolio/static/media/GOSURF.dfd0ffec3481d0e46821.png",
-    "static/media/bg3.png": "/Portfolio/static/media/bg3.dd5b4bff398913ec6f9b.png",
-    "static/media/bg1.png": "/Portfolio/static/media/bg1.4f356bbd05d88739fc38.png",
-    "static/media/bg4.png": "/Portfolio/static/media/bg4.0dae5d2c82eb5f745cf5.png",
-    "static/media/bg2.png": "/Portfolio/static/media/bg2.ba02ef5d1ed65264272e.png",
-    "static/media/SOS Game site.png": "/Portfolio/static/media/SOS Game site.8025c57c38ad233db8e2.png",
-    "static/media/MNTN.png": "/Portfolio/static/media/MNTN.ed9a194c1d60ec87a404.png",
-    "static/media/nike site.png": "/Portfolio/static/media/nike site.6f8091836b06985a77cf.png",
-    "static/media/OpenSans-Bold.ttf": "/Portfolio/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
-    "static/media/PorterSansBlock-Regular.ttf": "/Portfolio/static/media/PorterSansBlock-Regular.f32e8e101dde58924493.ttf",
-    "static/media/divesea site.png": "/Portfolio/static/media/divesea site.3fb1dc0b5f088831508d.png",
-    "static/media/Oxanium-Regular.ttf": "/Portfolio/static/media/Oxanium-Regular.c07e73bb78ad10eb3cdd.ttf",
-    "static/media/figure.svg": "/Portfolio/static/media/figure.ad2db768574c04621ba2b31104a9fafa.svg",
-    "index.html": "/Portfolio/index.html",
-    "main.cd204d82.css.map": "/Portfolio/static/css/main.cd204d82.css.map",
-    "main.b1208f3f.js.map": "/Portfolio/static/js/main.b1208f3f.js.map"
+    "main.css": "/PortfolioV2/static/css/main.d58be443.css",
+    "main.js": "/PortfolioV2/static/js/main.08717bb3.js",
+    "static/media/GOSURF.png": "/PortfolioV2/static/media/GOSURF.dfd0ffec3481d0e46821.png",
+    "static/media/bg3.png": "/PortfolioV2/static/media/bg3.dd5b4bff398913ec6f9b.png",
+    "static/media/bg1.png": "/PortfolioV2/static/media/bg1.4f356bbd05d88739fc38.png",
+    "static/media/bg4.png": "/PortfolioV2/static/media/bg4.0dae5d2c82eb5f745cf5.png",
+    "static/media/bg2.png": "/PortfolioV2/static/media/bg2.ba02ef5d1ed65264272e.png",
+    "static/media/SOS Game site.png": "/PortfolioV2/static/media/SOS Game site.8025c57c38ad233db8e2.png",
+    "static/media/MNTN.png": "/PortfolioV2/static/media/MNTN.ed9a194c1d60ec87a404.png",
+    "static/media/nike site.png": "/PortfolioV2/static/media/nike site.6f8091836b06985a77cf.png",
+    "static/media/OpenSans-Bold.ttf": "/PortfolioV2/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
+    "static/media/PorterSansBlock-Regular.ttf": "/PortfolioV2/static/media/PorterSansBlock-Regular.f32e8e101dde58924493.ttf",
+    "static/media/divesea site.png": "/PortfolioV2/static/media/divesea site.3fb1dc0b5f088831508d.png",
+    "static/media/Oxanium-Regular.ttf": "/PortfolioV2/static/media/Oxanium-Regular.c07e73bb78ad10eb3cdd.ttf",
+    "static/media/figure.svg": "/PortfolioV2/static/media/figure.ad2db768574c04621ba2b31104a9fafa.svg",
+    "index.html": "/PortfolioV2/index.html",
+    "main.d58be443.css.map": "/PortfolioV2/static/css/main.d58be443.css.map",
+    "main.08717bb3.js.map": "/PortfolioV2/static/js/main.08717bb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd204d82.css",
-    "static/js/main.b1208f3f.js"
+    "static/css/main.d58be443.css",
+    "static/js/main.08717bb3.js"
   ]
 }
